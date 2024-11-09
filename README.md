@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?sca_esv=b2637108d107973c&rlz=1C1CHBF_enIN1041IN1041&q=master+head+banner+of+full+stack+web+developer&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J1cAcxumvXsEMq93hG1Wi64tsAfgOi-2n62nF9vyARbMDHg76BYcalSlWdNUCd4dNsDcingkXX5YvrlZxCP5t_TSRg75Ok5i-jmGRh0ioHenlewMqsdtbVqz1qoHQqVJHsyujPiy5xHXRfFUWjdJ7axJ5cPRtBty7YZGNI5n_4ho_lvAjg&sa=X&ved=2ahUKEwjk8-TKsM-JAxWUqFYBHemjJmUQtKgLegQIFhAB&biw=1536&bih=730&dpr=1.25)]
+
 <h1 align="center">Hi 👋, I'm Anil gadhe</h1>
 <h3 align="center">A passionate Fullstack web-developer from India</h3>
 
