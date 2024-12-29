@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Fullstack web-developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilgadhe&label=Profile%20views&color=0e75b6&style=flat" alt="anilgadhe" /> </p>
-<img src="https://www.google.com/search?sca_esv=b2637108d107973c&rlz=1C1CHBF_enIN1041IN1041&q=web+development+developer+images+gif+hd&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dRsscc1eCoGfrPNWcLEFzUIdD368ow6W9xKkg-GtF5i1OQmPlDHOEgHLnAN-sAhdE1r-bZbwf6tiwIm4iBgP-8Wtv3Yd4zwpnkMY1Q_qs3nvaX3I7lJ6y2EaCec1IKDaTH_JCPObF5cH0wSlLGYyFeYLNc_I&udm=2&sa=X&ved=2ahUKEwjz08OXrs-JAxU0SmwGHdFePd0QxKsJegQIDxAB&ictx=0&biw=1536&bih=730&dpr=1.25#vhid=HtOdKVYyAYHVSM&vssid=mosaic" alt="developer photo"/>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilgadhe" alt="anilgadhe" /></a> </p>
 
